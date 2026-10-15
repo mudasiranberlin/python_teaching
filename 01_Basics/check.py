@@ -10,3 +10,5 @@ class Student:
 student1 = Student("Ali", 20)
 
 student1.introduce()
+
+print("Here is The Everthing",student1)
